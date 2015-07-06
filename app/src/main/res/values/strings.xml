@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LinearLayoutApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn1">測試按鈕ㄧ</string>
+    <string name="btn2">測試按鈕二</string>
+    <string name="btn3">測試按鈕三</string>
+    <string name="btn4">測試按鈕四</string>
+    <string name="btn5">測試按鈕五</string>
+</resources>
